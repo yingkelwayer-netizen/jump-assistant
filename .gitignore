@@ -1,0 +1,17 @@
+tools/
+build/
+*.keystore
+phone.png
+android-repository.xml
+jdk-assets.json
+secrets/
+dist/
+outputs/
+backups/
+data/
+server/service-config.json
+*.jks
+*.p12
+*private*.pem
+*.log
+__pycache__/

@@ -1,0 +1,4 @@
+<resources>
+    <string name="service_description">跳一跳助手仅在你点击单步或连续后，读取微信当前屏幕并模拟长按。屏幕可能包含其他可见内容；图片只在本机内存处理，不保存、不上传。读取前台应用身份用于判断停止，不提取聊天文字或联系人。你可随时暂停、收起或在系统设置关闭服务。开发者：北京中路综汇科技发展有限公司。联系：1@danielniu.com。</string>
+    <color name="brand_blue">#2563EB</color>
+</resources>
